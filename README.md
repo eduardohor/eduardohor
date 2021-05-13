@@ -1,7 +1,5 @@
 <h1 align="center">Olá 👋, Eu me sou o Eduardo Henrique</h1>
-<h3 align="center">Eu sou graduado em Análise e Desenvolvimento de Sitemas pela UNIFACEMA. Também tenho um curso técnico em informática pelo IFMA que foi realizado integrado com o ensino médio, e portando desde a minha adolescência estou ligado a tecnologia. Atualmente trabalho com desenvolvimento font-end, dominando HTML, CSS, JAVASCRIT e REACJS. Desenvolvendo projetos pessoais e ganhando experiência com projetos pequenos na minha cidade, busco uma carreira em um empresa de desenvolvimento web.</h3>
-
-<p align="left"> <a href="https://twitter.com/eduardoo_ti" target="blank"><img src="https://img.shields.io/twitter/follow/eduardoo_ti?logo=twitter&style=for-the-badge" alt="eduardoo_ti" /></a> </p>
+<h3 align="justify-content">Eu sou graduado em Análise e Desenvolvimento de Sitemas pela UNIFACEMA. Também tenho um curso técnico em informática pelo IFMA que foi realizado integrado com o ensino médio, e portando desde a minha adolescência estou ligado a tecnologia. Atualmente trabalho com desenvolvimento font-end, dominando HTML, CSS, JAVASCRIT e REACJS. Desenvolvendo projetos pessoais e ganhando experiência com projetos pequenos na minha cidade, busco uma carreira em um empresa de desenvolvimento web.</h3>
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
