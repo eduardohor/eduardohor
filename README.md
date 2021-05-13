@@ -1,4 +1,4 @@
-# Olá 👋, Eu me sou o Eduardo Henrique
+# Olá 👋, meu nome é Eduardo Henrique
 Eu sou graduado em Análise e Desenvolvimento de Sitemas pela UNIFACEMA. Entusiasta das melhores tecnologias de desenvolvimento web.
 
 Conecte-se comigo:
