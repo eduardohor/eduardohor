@@ -1,5 +1,5 @@
 # Olá 👋, meu nome é Eduardo Henrique
-Eu sou graduado em Análise e Desenvolvimento de Sitemas pela UNIFACEMA. Entusiasta das melhores tecnologias de desenvolvimento web. E sou desenvolvedor back-end. 
+Eu sou graduado em Análise e Desenvolvimento de Sitemas pela UNIFACEMA. Entusiasta das melhores tecnologias de desenvolvimento web e desenvolvo para esse nicho.
 
 Conecte-se comigo:
 
